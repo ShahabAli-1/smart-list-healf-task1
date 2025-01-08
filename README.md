@@ -1,4 +1,4 @@
-# Hoe to run
+# How to run
 
 ## Step 1
   First clone the repo
